@@ -1,0 +1,11 @@
+# 資料庫的絕對路徑
+path: C:/final/Roboflow_Dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+
+names:
+  0: extinguisher
